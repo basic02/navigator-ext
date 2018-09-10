@@ -1,6 +1,6 @@
 # Navigator SDK Extension Package
 
-Navigator SDK provides Java development toolkit for metadata extraction and writing. But after using Navigator SDK, there are several limitations:
+Navigator SDK provides Java development toolkit for metadata extraction and writing. But after using Navigator SDK, there are several limitations found:
 
 1. The metadata model can only be registered through Java Annotation (@MClass, @MProperty, @MRelation).
 2. The metadata write interface does not support writing managed metadata directly to the specified entity.
